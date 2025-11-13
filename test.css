@@ -2,3 +2,10 @@
     display: flex;
     flex-direction: column ;
 }
+
+.icon i {
+    padding: 10px;
+    background-color: pink;
+    font-size: 90px;
+    color: black;
+}
